@@ -1,0 +1,80 @@
+Bellow are listed all the third-party libraries, versions, and licenses
+that are utilized by Dedenser, to the best of our knowledge. 
+
+ Name                      Version      License                                             URL                                                                              
+ Markdown                  3.3.7        BSD License                                         https://Python-Markdown.github.io/                                               
+ Pillow                    8.4.0        Historical Permission Notice and Disclaimer (HPND)  https://python-pillow.org                                                        
+ Werkzeug                  2.0.3        BSD License                                         https://palletsprojects.com/p/werkzeug/                                          
+ absl-py                   1.4.0        Apache Software License                             https://github.com/abseil/abseil-py                                              
+ adabelief-pytorch         0.2.1        MIT License                                         https://juntang-zhuang.github.io/adabelief/                                      
+ cachetools                4.2.4        MIT License                                         https://github.com/tkem/cachetools/                                              
+ certifi                   2025.4.26    Mozilla Public License 2.0 (MPL 2.0)                https://github.com/certifi/python-certifi                                        
+ charset-normalizer        2.0.12       MIT License                                         https://github.com/ousret/charset_normalizer                                     
+ cloudpickle               2.2.1        BSD License                                         https://github.com/cloudpipe/cloudpickle                                         
+ colorama                  0.4.5        BSD License                                         https://github.com/tartley/colorama                                              
+ cycler                    0.11.0       BSD License                                         https://github.com/matplotlib/cycler                                             
+ dataclasses               0.8          Apache Software License                             https://github.com/ericvsmith/dataclasses                                        
+ decorator                 4.4.2        BSD License                                         https://github.com/micheles/decorator                                            
+ dgl-cu110                 0.6.1        Apache Software License                             https://github.com/dmlc/dgl                                                      
+ dgllife                   0.3.2        Apache Software License                             https://github.com/awslabs/dgl-lifesci                                           
+ future                    1.0.0        MIT License                                         https://python-future.org                                                        
+ google-auth               2.22.0       Apache Software License                             https://github.com/googleapis/google-auth-library-python                         
+ google-auth-oauthlib      0.4.6        Apache Software License                             https://github.com/GoogleCloudPlatform/google-auth-library-python-oauthlib       
+ graphviz                  0.19.1       MIT License                                         https://github.com/xflr6/graphviz                                                
+ grpcio                    1.48.2       Apache Software License                             https://grpc.io                                                                  
+ hyperopt                  0.2.7        BSD License                                         https://hyperopt.github.io/hyperopt                                              
+ idna                      3.10         BSD License                                         UNKNOWN                                                                          
+ imbalanced-learn          0.8.1        MIT                                                 https://github.com/scikit-learn-contrib/imbalanced-learn                         
+ imblearn                  0.0          UNKNOWN                                             https://pypi.python.org/pypi/imbalanced-learn/                                   
+ importlib-metadata        4.8.3        Apache Software License                             https://github.com/python/importlib_metadata                                     
+ importlib-resources       5.4.0        Apache Software License                             https://github.com/python/importlib_resources                                    
+ intel-cmplr-lib-ur        2025.2.1     Other/Proprietary License                           https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit.html 
+ intel-openmp              2025.2.1     Other/Proprietary License                           https://www.intel.com/content/www/us/en/developer/tools/oneapi/dpc-compiler.html 
+ joblib                    1.1.1        BSD License                                         https://joblib.readthedocs.io                                                    
+ kiwisolver                1.3.1        BSD License                                         https://github.com/nucleic/kiwi                                                  
+ littleutils               0.2.2        MIT                                                 https://github.com/alexmojaki/littleutils                                        
+ llvmlite                  0.36.0       BSD                                                 http://llvmlite.pydata.org                                                       
+ matplotlib                3.3.4        Python Software Foundation License                  https://matplotlib.org                                                           
+ mkl                       2025.2.0     Other/Proprietary License                           https://www.intel.com/content/www/us/en/developer/tools/oneapi/onemkl.html       
+ networkx                  2.5.1        BSD License                                         http://networkx.github.io/                                                       
+ numba                     0.53.1       BSD License                                         https://numba.pydata.org                                                         
+ numpy                     1.19.5       BSD                                                 https://www.numpy.org                                                            
+ nvidia-cublas-cu11        11.11.3.6    Other/Proprietary License                           https://developer.nvidia.com/cuda-zone                                           
+ nvidia-cuda-nvrtc-cu11    11.8.89      Other/Proprietary License                           https://developer.nvidia.com/cuda-zone                                           
+ nvidia-cuda-runtime-cu11  11.8.89      Other/Proprietary License                           https://developer.nvidia.com/cuda-zone                                           
+ nvidia-cudnn-cu11         9.10.2.21    Other/Proprietary License                           https://developer.nvidia.com/cuda-zone                                           
+ oauthlib                  3.2.2        BSD License                                         https://github.com/oauthlib/oauthlib                                             
+ ogb                       1.3.6        MIT License                                         https://github.com/snap-stanford/ogb                                             
+ outdated                  0.2.2        MIT License                                         http://github.com/alexmojaki/outdated                                            
+ pandas                    1.1.5        BSD                                                 https://pandas.pydata.org                                                        
+ protobuf                  3.19.6       3-Clause BSD License                                https://developers.google.com/protocol-buffers/                                  
+ psutil                    7.1.0        BSD-3-Clause                                        https://github.com/giampaolo/psutil                                              
+ py4j                      0.10.9.9     BSD License                                         https://www.py4j.org/                                                            
+ pyasn1                    0.5.1        BSD License                                         https://github.com/pyasn1/pyasn1                                                 
+ pyasn1-modules            0.3.0        BSD License                                         https://github.com/pyasn1/pyasn1-modules                                         
+ pynndescent               0.5.13       BSD                                                 http://github.com/lmcinnes/pynndescent                                           
+ pyparsing                 3.1.4        MIT License                                         UNKNOWN                                                                          
+ python-dateutil           2.9.0.post0  Apache Software License; BSD License                https://github.com/dateutil/dateutil                                             
+ pytz                      2025.2       MIT License                                         http://pythonhosted.org/pytz                                                     
+ rdkit-pypi                2021.9.4     BSD-3-Clause                                        https://github.com/kuelumbus/rdkit-pypi                                          
+ requests                  2.27.1       Apache Software License                             https://requests.readthedocs.io                                                  
+ requests-oauthlib         2.0.0        BSD License                                         https://github.com/requests/requests-oauthlib                                    
+ rsa                       4.9.1        Apache Software License                             UNKNOWN                                                                          
+ scikit-learn              0.24.2       new BSD                                             http://scikit-learn.org                                                          
+ scipy                     1.5.4        BSD License                                         https://www.scipy.org                                                            
+ seaborn                   0.11.2       BSD License                                         https://seaborn.pydata.org                                                       
+ six                       1.17.0       MIT License                                         https://github.com/benjaminp/six                                                 
+ tabulate                  0.8.10       MIT License                                         https://github.com/astanin/python-tabulate                                       
+ tbb                       2022.2.0     Other/Proprietary License                           https://github.com/oneapi-src/oneTBB                                             
+ tcmlib                    1.4.0        Other/Proprietary License                           https://oneapi-src.github.io/oneTBB/GSG/next_steps.html                                                                           
+ threadpoolctl             3.1.0        BSD License                                         https://github.com/joblib/threadpoolctl                                          
+ torch                     1.10.1       BSD License                                         https://pytorch.org/                                                             
+ torchsummary              1.5.1        UNKNOWN                                             https://github.com/sksq96/pytorch-summary                                        
+ torchvision               0.11.2       BSD                                                 https://github.com/pytorch/vision                                                
+ torchviz                  0.0.3        BSD                                                 https://github.com/pytorch/pytorchviz                                            
+ tqdm                      4.64.1       MIT License; Mozilla Public License 2.0 (MPL 2.0)   https://tqdm.github.io                                                           
+ typing-extensions         4.1.1        Python Software Foundation License                  UNKNOWN                                                                          
+ umap-learn                0.5.7        BSD                                                 http://github.com/lmcinnes/umap                                                  
+ umf                       0.11.0       Other/Proprietary License                           https://github.com/oneapi-src/unified-memory-framework                           
+ urllib3                   1.26.20      MIT License                                         https://urllib3.readthedocs.io/                                                  
+ zipp                      3.6.0        MIT License                                         https://github.com/jaraco/zipp

@@ -1,0 +1,1 @@
+{'name': 'pre_train_concat', 'dataset': 'ht', 'datapath': 'data', 'model_name': 'GIN_average', 'num_layers': 4, 'hid_dim': 200, 'gru_out_layer': 6, 'norm': 'batch_norm', 'update_func': 'none', 'epochs': 2500, 'lr': 0.001, 'dropout': 0.01, 'batch_size': 512, 'early_stop': 20, 'seed': 1, 'inference': False, 'best_ckpt': None, 'exclude_node': None, 'exclude_edge': None}
