@@ -41,7 +41,7 @@ Pillow==8.4.0
 protobuf==3.19.6
 psutil==7.1.0
 py4j==0.10.9.9
-pyasn1==0.5.1
+pyasn1==0.6.5
 pyasn1-modules==0.3.0
 pynndescent==0.5.13
 pyparsing==3.1.4
